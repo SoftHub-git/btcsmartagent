@@ -1,5 +1,7 @@
 # BTCAgent
 
+![image](https://github.com/SoftHub-git/btcsmartagent/assets/73274922/73a8b1bb-f7ef-4fa7-9551-26e647202444)
+
 [Chinese Version/中文版本](README-zhCN.md)
 
 BTCAgent is a kind of stratum proxy which use [customize protocol](https://github.com/btccom/btcpool/blob/master/docs/AGENT.md) to communicate with the pool. It's very efficient and designed for huge mining farm. And you still can find each miner at the pool.
